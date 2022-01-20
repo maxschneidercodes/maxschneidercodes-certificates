@@ -1,7 +1,7 @@
 # maxschneidercodes-certificates
  
 ## Frontend Developer Career Path
-![Bildschirmfoto 2022-01-20 um 09 11 28](https://user-images.githubusercontent.com/45995648/150298776-78f9691b-9634-4e4d-81aa-b6001d8d1cfb.png)
+![Bildschirmfoto 2022-01-20 um 10 24 23](https://user-images.githubusercontent.com/45995648/150310650-4635b22a-6285-48d5-8d9a-5b2620b8e3ed.png)
 
 
 ## Clean Code
